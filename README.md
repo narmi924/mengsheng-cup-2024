@@ -13,6 +13,6 @@ YiguiApp/ios/Yigui2
 ├── 声源分析                        # Python
 ├── TDOA算法仿真.m                  # MATLAB
 ├── 盟升杯高年级组D6设计报告.pdf
-├── 语音识别模块主代码.c             # 天问Block
+├── 语音识别模块主代码.c             # IDE:天问Block
 
 ```
